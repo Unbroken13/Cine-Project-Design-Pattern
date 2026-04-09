@@ -1,4 +1,6 @@
+ENGLISH
 # 🎬 Cinema Booking System
+
 
 ## 📝 Description
 This project implements the core logical engine (in-memory backend) for a cinema reservation and billing system. It is designed with a strong focus on **Object-Oriented Programming (OOP)**, **SOLID principles**, and **Design Patterns** to ensure a scalable and maintainable architecture.
